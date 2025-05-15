@@ -1,0 +1,1 @@
+.map{position:relative}.map__overlay{height:100%;width:100%;position:absolute}.map__iframe{width:100%;height:500px;border:0;margin:0;padding:0;text-align:center}.map-container{width:100%;height:500px}.map-container iframe{width:1200px;display:block;pointer-events:none;position:relative;text-align:center}.map-container iframe.clicked{pointer-events:auto}
